@@ -50,3 +50,5 @@ export default function Page() {
     </main>
   );
 }
+
+// continuar em: https://nextjs.org/learn/dashboard-app/setting-up-your-database
